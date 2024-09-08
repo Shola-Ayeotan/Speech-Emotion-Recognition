@@ -32,6 +32,8 @@ We used the **Ryerson Audio-Visual Database of Emotional Speech and Song (RAVDES
 - Disgust
 - Surprised
 
+Link: https://zenodo.org/records/1188976
+
 The dataset contains **7356 audio files**, and we focus on the **speech data** for this project.
 
 ## Technologies Used
