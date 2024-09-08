@@ -11,7 +11,6 @@ Emotions play a critical role in human interaction. Recognizing emotions from sp
 
 Our **Secondary Goal** was to deploy the model as a Flask API to allow real-time interaction, where users can upload an audio file and receive an emotion classification.
 
-
 ## Project Overview
 
 This project followed a structured approach:
@@ -23,7 +22,7 @@ This project followed a structured approach:
 
 ## Dataset
 
-We used the **Ryerson Audio-Visual Database of Emotional Speech and Song (RAVDESS)**, a publicly available dataset containing emotional speech and song. It consists of speech files uttered by actors portraying different emotions, including:
+We used the **Ryerson Audio-Visual Database of Emotional Speech and Song (RAVDESS)**, a publicly available dataset containing emotional speech and song. The dataset consists of two lexically-matched statements,  vocalized in a neutral North American accent by 24 professional actors (12 female, 12 male). The speech files portray different emotions, including:
 - Neutral
 - Calm
 - Happy
@@ -32,6 +31,8 @@ We used the **Ryerson Audio-Visual Database of Emotional Speech and Song (RAVDES
 - Fearful
 - Disgust
 - Surprised
+
+Link: https://zenodo.org/records/1188976
 
 The dataset contains **7356 audio files**, and we focus on the **speech data** for this project.
 
