@@ -46,7 +46,7 @@ The project uses the following tech stack:
 - **Visualization**: Matplotlib
 
 ## EDA
-![](/assets/Chroma Spectogram.png)
+![](assets/Chroma Spectogram.png)
 
 
 ## Deployment
