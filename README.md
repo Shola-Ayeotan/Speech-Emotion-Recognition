@@ -1,4 +1,4 @@
-# Speech Emotion Recognition (SER) using keras, tensorflow and sklearn
+# Speech Emotion Recognition (SER) using Keras, TensorFlow and Sklearn
 
 This project focuses on **Speech Emotion Recognition (SER)**, where the goal was to identify human emotions from audio recordings. The project uses **Python**, **Keras**, **TensorFlow**, and **Scikit-learn** to train models that predict emotions such as happiness, sadness, anger, and calmness from audio inputs.
 
@@ -7,7 +7,7 @@ The project employs feature extraction techniques on audio data, followed by mod
 
 ## Project Objectives
 
-Emotions play a critical role in human interaction. Recognizing emotions from speech is useful for applications in entertainment, education, and healthcare. The main goal of this project is to **predict emotions from speech data** using machine learning.
+Emotions play a critical role in human interaction. Recognizing emotions from speech is useful for entertainment, education, and healthcare applications. The main goal of this project is to **predict emotions from speech data** using machine learning.
 
 Our **Secondary Goal** was to deploy the model as a Flask API to allow real-time interaction, where users can upload an audio file and receive an emotion classification.
 
@@ -34,7 +34,7 @@ We used the **Ryerson Audio-Visual Database of Emotional Speech and Song (RAVDES
 
 Link: https://zenodo.org/records/1188976
 
-The dataset contains **7356 audio files**, and we focus on the **speech data** for this project.
+The dataset contains **7356 audio files**, and we focus on this project's **speech data**.
 
 ## Technologies Used
 
