@@ -46,7 +46,21 @@ The project uses the following tech stack:
 - **Visualization**: Matplotlib
 
 ## EDA
+
+![Waveform](assets/Waveform.png)
+
+![MFCCs](assets/MFCCs.png)
+
+![MFCCs](assets/mean_MFCCs.png)
+
+![Chroma Spectogram](assets/Mel_Spectogram.png)
+
 ![Chroma Spectogram](assets/Chroma_Spectogram.png)
+
+![Spectogram](assets/Mean_Chroma_Spectogram_freq.png)
+
+![Spectogram](assets/Mean_mel_Spectogram_freq.png)
+
 
 ## Deployment
 
