@@ -55,6 +55,10 @@ To make the model accessible, we developed a Flask API that allows users to uplo
 
 The API was containerized using Docker for easier deployment. A `Dockerfile` was created to set up the Flask environment, install dependencies, and expose the necessary port for the API.
 
+## Results
+
+
+
 ## Achievements
 By the end of the project, the following goals were successfully achieved:
 - Built a working speech emotion recognition model that can classify emotions with high accuracy.
