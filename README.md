@@ -45,6 +45,8 @@ The project uses the following tech stack:
 - **Data Handling**: Pandas, Numpy
 - **Visualization**: Matplotlib
 
+## EDA
+
 ## Deployment
 
 To make the model accessible, we developed a Flask API that allows users to upload an audio file and receive an emotion prediction. The API processes the audio file and feeds the features to the pre-trained model for classification.
@@ -55,15 +57,9 @@ To make the model accessible, we developed a Flask API that allows users to uplo
 
 The API was containerized using Docker for easier deployment. A `Dockerfile` was created to set up the Flask environment, install dependencies, and expose the necessary port for the API.
 
-## Results
-
-
-
 ## Achievements
 By the end of the project, the following goals were successfully achieved:
-- Built a working speech emotion recognition model that can classify emotions with high accuracy.
+- Built a working speech emotion recognition model that can accurately classify emotions.
 - Extracted relevant audio features using advanced signal processing techniques.
 - Deployed the model using a Flask API, making it accessible for real-time predictions.
 - Dockerized the application for easier deployment on cloud platforms like Heroku or AWS.
-
----
