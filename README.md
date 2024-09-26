@@ -77,4 +77,3 @@ By the end of the project, the following goals were successfully achieved:
 - Built a working speech emotion recognition model that can accurately classify emotions.
 - Extracted relevant audio features using advanced signal processing techniques.
 - Deployed the model using a Flask API, making it accessible for real-time predictions.
-- Dockerized the application for easier deployment on cloud platforms like Heroku or AWS.
